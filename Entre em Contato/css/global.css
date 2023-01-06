@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--black);
+}
+
+h1{
+    font-family: 'Cinzel', serif;
+    color: var(--orange);
+    font-weight: 400;
+    font-size: 3.188rem;
+    text-align: center;
+    padding-bottom: 1.5rem;
+}
+
+h3 {
+    color: var(--white);
+    font-weight: 100;
+    font-size: 1.4rem;
+    margin-top: 2.5rem;
+}
+
+h5 {
+    color: var(--gray);
+    font-weight: lighter;
+    padding-top: 1.2rem;
+}
+
+h5 a {
+    color: var(--orange);
+}
+
+p{
+    color: var(--gray);
+    font-weight: lighter;  
+    margin-top: 1.2rem;
+    margin-bottom: 5rem;
+}

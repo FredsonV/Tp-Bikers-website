@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--black);
+}
+
+input {
+	display: block;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    padding-top: 2rem;
+    font-family: 'Cinzel', serif;
+    color: var(--orange);
+    font-weight: 400;
+    font-size: 3.188rem;
+    text-align: center;
+}
+
+h2{
+    font-weight: 200;
+    padding-bottom: 1.5rem;
+    color: var(--orange);
+}
+
+h6{
+    color: var(--gray);
+}
+
+p{
+    color: var(--gray);
+    font-weight: bold;
+}
+
+hr {
+    opacity: 20%;
+}
+
+button a{
+    text-decoration: none;
+    background-color: transparent;
+    color: var(--orange);
+}

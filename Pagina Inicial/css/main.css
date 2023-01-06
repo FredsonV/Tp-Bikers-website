@@ -1,0 +1,29 @@
+
+main img{
+    width: 100%;
+}
+
+
+.first_section {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-inline: 10rem;
+    margin-bottom: 10rem;
+    font-size: 1.563rem;
+}
+
+.visao{
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+
+.missao{
+    margin-top: 2rem;
+    margin-inline: 2rem;
+}
+
+.valores{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}

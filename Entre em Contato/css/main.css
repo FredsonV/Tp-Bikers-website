@@ -1,0 +1,33 @@
+.first_section form{
+    display: block;
+}
+
+.texto input {
+    padding-bottom: 10rem;
+}
+input {
+	display: block;
+    margin-left: 28rem;
+    margin-right: 28rem;
+    width: 38rem;
+    background: var(dark-black);
+    margin-top: 2rem;
+}   
+
+body{
+    text-align: center;
+}
+
+button a{
+    text-decoration: none;
+    background-color: transparent;
+    color: var(--dark-black);
+    font-weight: bold;
+}
+
+button {
+    padding: 1.1rem;
+    background-color: var(--orange); 
+    padding-inline: 1.5rem ;
+    margin-top: 1.2rem;    
+}

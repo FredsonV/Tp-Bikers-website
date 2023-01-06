@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3rem;
+    margin-left: 27rem;
+
+}
+
+header img{
+    margin-left: 17rem;
+    height: 5rem;
+}
+
+header a{
+    color: var(--white);
+    text-decoration: none;
+    margin-inline: 0.7rem;
+    font-weight: 600;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.pi{
+    text-decoration:underline;
+    color: var(--orange);
+}
